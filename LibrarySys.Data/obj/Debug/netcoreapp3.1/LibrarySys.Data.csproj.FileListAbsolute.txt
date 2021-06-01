@@ -1,0 +1,12 @@
+F:\pactice\LibrarySys\LibrarySys.Data\obj\Debug\netcoreapp3.1\LibrarySys.Data.csprojAssemblyReference.cache
+F:\pactice\LibrarySys\LibrarySys.Data\obj\Debug\netcoreapp3.1\LibrarySys.Data.AssemblyInfoInputs.cache
+F:\pactice\LibrarySys\LibrarySys.Data\obj\Debug\netcoreapp3.1\LibrarySys.Data.AssemblyInfo.cs
+F:\pactice\LibrarySys\LibrarySys.Data\bin\Debug\netcoreapp3.1\LibrarySys.Data.deps.json
+F:\pactice\LibrarySys\LibrarySys.Data\bin\Debug\netcoreapp3.1\LibrarySys.Data.runtimeconfig.json
+F:\pactice\LibrarySys\LibrarySys.Data\bin\Debug\netcoreapp3.1\LibrarySys.Data.runtimeconfig.dev.json
+F:\pactice\LibrarySys\LibrarySys.Data\bin\Debug\netcoreapp3.1\LibrarySys.Data.dll
+F:\pactice\LibrarySys\LibrarySys.Data\bin\Debug\netcoreapp3.1\LibrarySys.Data.pdb
+F:\pactice\LibrarySys\LibrarySys.Data\obj\Debug\netcoreapp3.1\LibrarySys.Data.dll
+F:\pactice\LibrarySys\LibrarySys.Data\obj\Debug\netcoreapp3.1\LibrarySys.Data.pdb
+F:\pactice\LibrarySys\LibrarySys.Data\obj\Debug\netcoreapp3.1\LibrarySys.Data.genruntimeconfig.cache
+F:\pactice\LibrarySys\LibrarySys.Data\obj\Debug\netcoreapp3.1\LibrarySys.Data.csproj.CoreCompileInputs.cache

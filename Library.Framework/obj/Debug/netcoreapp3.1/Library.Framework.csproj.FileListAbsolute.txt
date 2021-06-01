@@ -1,0 +1,12 @@
+F:\pactice\LibrarySys\Library.Framework\obj\Debug\netcoreapp3.1\Library.Framework.csprojAssemblyReference.cache
+F:\pactice\LibrarySys\Library.Framework\obj\Debug\netcoreapp3.1\Library.Framework.AssemblyInfoInputs.cache
+F:\pactice\LibrarySys\Library.Framework\obj\Debug\netcoreapp3.1\Library.Framework.AssemblyInfo.cs
+F:\pactice\LibrarySys\Library.Framework\bin\Debug\netcoreapp3.1\Library.Framework.deps.json
+F:\pactice\LibrarySys\Library.Framework\bin\Debug\netcoreapp3.1\Library.Framework.dll
+F:\pactice\LibrarySys\Library.Framework\bin\Debug\netcoreapp3.1\Library.Framework.pdb
+F:\pactice\LibrarySys\Library.Framework\obj\Debug\netcoreapp3.1\Library.Framework.dll
+F:\pactice\LibrarySys\Library.Framework\obj\Debug\netcoreapp3.1\Library.Framework.pdb
+F:\pactice\LibrarySys\Library.Framework\obj\Debug\netcoreapp3.1\Library.Framework.csproj.CoreCompileInputs.cache
+F:\pactice\LibrarySys\Library.Framework\bin\Debug\netcoreapp3.1\LibrarySys.Data.dll
+F:\pactice\LibrarySys\Library.Framework\bin\Debug\netcoreapp3.1\LibrarySys.Data.pdb
+F:\pactice\LibrarySys\Library.Framework\obj\Debug\netcoreapp3.1\Library.Framework.csproj.CopyComplete

@@ -1,0 +1,51 @@
+﻿@using LibrarySys.Web.Areas.Admin.Models.BookModels
+@model EditBookModel
+@{
+    ViewData["Title"] = "Add";
+}
+
+<section class="content">
+    <div class="container-fluid">
+        <div class="row">
+
+            <div class="col-md-12">
+                <!-- general form elements -->
+                <div class="card card-primary">
+                    <!-- form start -->
+                    <form asp-area="Admin" asp-controller="Books" asp-action="Add" method="post" class="form-horizontal">
+                        <div asp-validation-summary="All" class="text-danger"></div>
+                        <div class="form-group">
+                            <label asp-for="Title" class="col-md-2 control-label"></label>
+                            <div class="col-md-10">
+                                <input asp-for="Title" class="form-control" />
+                                <span asp-validation-for="Title" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Author" class="col-md-2 control-label"></label>
+                            <div class="col-md-10">
+                                <input asp-for="Author" class="form-control" />
+                                <span asp-validation-for="Author" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <label asp-for="Edition" class="col-md-2 control-label"></label>
+                            <div class="col-md-10">
+                                <input asp-for="Edition" class="form-control" />
+                                <span asp-validation-for="Edition" class="text-danger"></span>
+                            </div>
+                        </div>
+                        <div class="form-group">
+                            <div class="col-md-10">
+                                <input type="submit" class="btn btn-default" value="Submit" />
+                            </div>
+                        </div>
+                    </form>
+                </div>
+                <!-- /.card -->
+            </div>
+        </div>
+        <!-- /.row -->
+    </div><!-- /.container-fluid -->
+</section>
+
